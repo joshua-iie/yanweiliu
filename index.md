@@ -37,7 +37,7 @@
 <p>———————————————————————————————————————————————</p>
 
 
-<h2 id="publications">Publications（<a href="https://scholar.google.com/citations?user=8RXF4Q4AAAAJ&amp;hl=en">Google Scholar
+<h2 id="publications">Publications（<a href="https://scholar.google.com/citations?user=XBQwn9cAAAAJ&hl=en">Google Scholar
 </a>）</h2>
 
 <ul>
