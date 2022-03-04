@@ -41,7 +41,7 @@
 </a>）</h2>
 
 <ul>
-  <li><u>Yanwei Yu*</u>, Xianfeng Tang, Huaxiu Yao, Xiuwen Yi, Zhenhui Li. Citywide Traffic Volume Inference with Surveillance Camera Records. IEEE Transactions on Big Data. 2021, 7(6):900–912. (<strong>CCF C</strong>) <a href="/papers/Yanwei2021CitywideTBD.pdf" target="_blank">[PDF]</a>  <span style="color:red;"><strong>New!</strong></span></li>
+  <li>Yunjian Zhang, <strong>Yanwei Liu</strong>, Jinxia Liu, Jingbo Miao, Antonios Argyriou, Liming Wang, Zhen Xu, 360-Attack: Distortion-Aware Perturbations from Perspective-Views, IEEE/CVF Conference on Computer Vision and Pattern Recognition, 19-24 June 2022, New Orleans, Louisiana. </li>
 
 </ul>
 
@@ -49,7 +49,7 @@
 
 <p><a href="https://clustrmaps.com/site/1bf9f" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=YgAX7EI4VQTaUhsp2h3xKcH7hPOD2pUDVXgafAsrXTE&amp;cl=ffffff" /></a></p>
 
-<p><strong>更新时间：2021/12/17</strong></p>
+<p><strong>更新时间：2022/3/5</strong></p>
 
 
       
